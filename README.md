@@ -9,7 +9,7 @@ The Dataset is Downloaded from  https://www.kaggle.com/datasets/ahmedhamada0/bra
 **About the data:**  
 -----
 
-The dataset contains 2 folders: yes and no which contains 3000 Brain MRI Images.
+The dataset contains 2 folders: yes and no which contains 6000 Brain MRI Images.
 
 ## **Features**
 - **Upload MRI Images**: Users can upload MRI images for tumor detection.
